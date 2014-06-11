@@ -28,4 +28,5 @@ In this exercise we'll re-inforce several `git` concepts and learn how to submit
 1. Commit this file with the contents
 1. Push this change to GitHub
 1. Log into students and create a submission for this exercise
+1. Draw the interactions between your computer, github, and students
 
