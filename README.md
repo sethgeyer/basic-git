@@ -17,7 +17,8 @@ In this exercise we'll re-inforce several `git` concepts and learn how to submit
 
 ## Tasks
 
-1. Fork this repository.
+1. Have _only_ one user fork this repository. 
+1. Clone this repository to the person's machine that forked the repo into the `~/gSchoolWork/exercises` folder.
 1. Create a file called `hello.txt`.
 1. Make a commit with this file.
 1. Push this change to GitHub.
