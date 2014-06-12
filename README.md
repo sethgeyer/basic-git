@@ -5,6 +5,8 @@ Git, GitHub, and Students is how we collaborate together during class. Exercises
 
 In this exercise we'll re-inforce several `git` concepts and learn how to submit work. Work individually on this. If you finish, help other students.
 
+When you make a commit, please make a good commit message describing what you did.
+
 ## Tech skills learned
 
 * Git
@@ -21,6 +23,7 @@ In this exercise we'll re-inforce several `git` concepts and learn how to submit
 1. Clone the forked repository to the person's machine that forked the repo into the `~/gSchoolWork/exercises` folder.
 1. Create a file called `hello.txt`.
 1. Make a commit with this file.
+1. Check `git status` to make sure you actually commited the file.
 1. Push this change to GitHub.
 1. Add the text "hello world" to line 1 in the file `hello.txt`.
 1. Make a commit with this change.
