@@ -30,15 +30,15 @@ When you make a commit, please make a good commit message describing what you di
 1. Push this change to GitHub.
 1. Ask for an instructor to review your work.
 1. Redirect the output from `git log` into a file called `git-log.txt`. NO TEXT EDITORS!.
-1. Commit this file with the contents using `git add -p`.
+1. Commit this file with the contents.
 1. Push this change to GitHub.
 1. Ask for an instructor to review your work.
 1. Log into students and create a submission for this exercise.
 1. Fork this repository to the other person's account. Clone this code to the other computer.
 1. On the original repository add "I hope this makes it!" on line 2 to the `hello.txt`.
 1. On the newly forked repository add "Oh no! What's going to happen?" on line 2 to the `hello.txt`.
-1. Make a commit on the first computer.
-1. Make a commit on the second computer.
+1. Make a commit on the first computer. Use `git add -p` to stage the change.
+1. Make a commit on the second computer.  Use `git add -p` to stage the change.
 1. Merge these two changes together so they both end up on both user's GitHub, on lines 1 and 2, respectively.
 1. On one of the computers, over-write the old `git-log.txt` with the new output from `git log`.
 1. Ask for an instructor to review your work
