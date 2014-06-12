@@ -48,6 +48,7 @@ Oh no! What's going to happen?
 ```
 
 * On one of the computers, over-write the old `git-log.txt` with the new output from `git log`.
+* Commit and Push.
 * Ask for an instructor to review your work
 * Fork the forked repository to the other person's account.
 * Log into students with the other user and submit this code.
