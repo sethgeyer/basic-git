@@ -33,7 +33,7 @@ When you make a commit, please make a good commit message describing what you di
 1. Commit this file with the contents.
 1. Push this change to GitHub.
 1. Ask for an instructor to review your work.
-1. Log into students and create a submission for this exercise.
+1. Log into students and create a submission for this exercise. When asked for a repo name, type in `basic-git`.
 1. Fork this repository to the other person's account. Clone this code to the other computer.
 1. On the original repository add "I hope this makes it!" on line 2 to the `hello.txt`.
 1. On the newly forked repository add "Oh no! What's going to happen?" on line 2 to the `hello.txt`.
