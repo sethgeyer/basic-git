@@ -47,7 +47,7 @@ I hope this makes it!
 Oh no! What's going to happen?
 ```
 
-
+Now that you've finished this, get some paper and show what you just did visually:
 1. Draw the git tree
 1. Draw the interactions between each pair's computer and github
 1. Ask for an instructor to review your work
