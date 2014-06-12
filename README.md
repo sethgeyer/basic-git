@@ -26,7 +26,7 @@ In this exercise we'll re-inforce several `git` concepts and learn how to submit
 1. Push this change to GitHub
 1. Ask for an instructor to review your work
 1. Redirect the output from `git log` into a file called git-log.txt. NO TEXT EDITORS!
-1. Commit this file with the contents
+1. Commit this file with the contents. Try using `git add -p`
 1. Push this change to GitHub
 1. Ask for an instructor to review your work
 1. Log into students and create a submission for this exercise
