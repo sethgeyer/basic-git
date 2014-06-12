@@ -34,13 +34,15 @@ When you make a commit, please make a good commit message describing what you di
 1. Push this change to GitHub.
 1. Ask for an instructor to review your work.
 1. Log into students and create a submission for this exercise. When asked for a repo name, type in `basic-git`.
-1. Fork this repository to the other person's account. Clone this code to the other computer.
-1. On the original repository add "I hope this makes it!" on line 2 to the `hello.txt`.
-1. On the newly forked repository add "Oh no! What's going to happen?" on line 2 to the `hello.txt`.
+1. Clone the forked repository onto the other person's computer
+1. On the original computer add "I hope this makes it!" on line 2 to the `hello.txt`.
+1. On the computer add "Oh no! What's going to happen?" on line 2 to the `hello.txt`.
 1. Make a commit on the first computer. Use `git add -p` to stage the change.
 1. Make a commit on the second computer.  Use `git add -p` to stage the change.
 1. Merge these two changes together so they both end up on both user's GitHub, on lines 1 and 2, respectively.
 1. On one of the computers, over-write the old `git-log.txt` with the new output from `git log`.
+1. Fork the forked repository to the other person's account.
+1. Log into students with the other user and submit this code.
 1. Ask for an instructor to review your work
 
 When you're finished, you should BOTH have a repository on GitHub that has two files in, `hello.txt` and `git-log.txt`.
