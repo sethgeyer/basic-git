@@ -18,7 +18,7 @@ In this exercise we'll re-inforce several `git` concepts and learn how to submit
 ## Tasks
 
 1. Fork this repository.
-1. Create a file called hello.txt.
+1. Create a file called `hello.txt`.
 1. Make a commit with this file.
 1. Push this change to GitHub.
 1. Add the text "hello world" to line 1 in the file hello.txt.
