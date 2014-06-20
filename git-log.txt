@@ -1,0 +1,137 @@
+commit cc380befd522baa1fea5a2bf88b3a48a55b408b3
+Author: Seth Geyer <seth.geyer@gmail.com>
+Date:   Fri Jun 20 13:57:47 2014 -0600
+
+    added text
+
+commit 68e44e735d5af6efdc3a378f38f1eda972d8efe5
+Author: Jeff Taggart <jetaggart@users.noreply.github.com>
+Date:   Thu Jun 12 08:46:04 2014 -0600
+
+    Update README.md
+
+commit 57d4e09955d9a73a3a69b04bb83733296f6617ec
+Author: Jeff Taggart <jetaggart@users.noreply.github.com>
+Date:   Thu Jun 12 08:43:09 2014 -0600
+
+    Update README.md
+
+commit cfce925f872724e129d6952c84774455c42e2981
+Author: Jeff Taggart <jetaggart@users.noreply.github.com>
+Date:   Thu Jun 12 08:41:18 2014 -0600
+
+    Update README.md
+
+commit 2fd71fd3a456b837ecc38b5d1103bf246176b4c0
+Author: Jeff Taggart <jetaggart@users.noreply.github.com>
+Date:   Thu Jun 12 08:38:22 2014 -0600
+
+    Update README.md
+
+commit 6a301bdd34af2c14dae34f5467bb1f7f23791224
+Author: Jeff Taggart <jetaggart@users.noreply.github.com>
+Date:   Thu Jun 12 08:36:53 2014 -0600
+
+    Update README.md
+
+commit 77e74c8200f3cdf5b422964bac59934f34d952ee
+Author: Jeff Taggart <jetaggart@users.noreply.github.com>
+Date:   Thu Jun 12 08:35:26 2014 -0600
+
+    Update README.md
+
+commit da367f132cc7a81bfd1ef5d24e99a1be593ff910
+Author: Jeff Taggart <jetaggart@users.noreply.github.com>
+Date:   Thu Jun 12 08:34:11 2014 -0600
+
+    Update README.md
+
+commit b0b2aedeab7a499ca4117e1d3becc10632e0699c
+Author: Jeff Taggart <jetaggart@users.noreply.github.com>
+Date:   Thu Jun 12 08:32:06 2014 -0600
+
+    Update README.md
+
+commit 0379426a1f550e03d273a4532e523462184742f7
+Author: Jeff Taggart <jetaggart@users.noreply.github.com>
+Date:   Thu Jun 12 08:30:31 2014 -0600
+
+    Update README.md
+
+commit 3cdfd4e967913952a0c76859bf42ba815d2d6c83
+Author: Jeff Taggart <jetaggart@users.noreply.github.com>
+Date:   Thu Jun 12 08:29:47 2014 -0600
+
+    Update README.md
+
+commit ae64757e17748f6b9babfefa46590765590f6e33
+Author: Jeff Taggart <jetaggart@users.noreply.github.com>
+Date:   Thu Jun 12 08:28:22 2014 -0600
+
+    Update README.md
+
+commit 3bbc84e4e73090aecc45468aef492b8c8bbeceed
+Author: Jeff Taggart <jetaggart@users.noreply.github.com>
+Date:   Thu Jun 12 08:17:32 2014 -0600
+
+    Update README.md
+
+commit b3e6717dc4ad1cb86c93300729844e3abac19842
+Author: Jeff Taggart <jetaggart@users.noreply.github.com>
+Date:   Thu Jun 12 08:17:01 2014 -0600
+
+    Update README.md
+
+commit 458daee29c49130eefb9117ac8ef304235bcffb9
+Author: Jeff Taggart <jetaggart@users.noreply.github.com>
+Date:   Thu Jun 12 08:16:26 2014 -0600
+
+    Update README.md
+
+commit 0c4af531eb9510fc901be30fab40bc6cdfe51b9d
+Author: Jeff Taggart <jetaggart@users.noreply.github.com>
+Date:   Thu Jun 12 08:14:58 2014 -0600
+
+    Update README.md
+
+commit 33c30c3e132ab4db6baeac72d40469222ec622f9
+Author: Jeff Taggart <jetaggart@users.noreply.github.com>
+Date:   Thu Jun 12 08:13:07 2014 -0600
+
+    Update README.md
+
+commit 34917a70297b1785cf01287423067a4e3bef2a7e
+Author: Jeff Taggart <jetaggart@users.noreply.github.com>
+Date:   Thu Jun 12 08:12:49 2014 -0600
+
+    Update README.md
+
+commit 8de579da6aefba919e896197631b9d5b374ca0df
+Author: Jeff Taggart <jetaggart@users.noreply.github.com>
+Date:   Thu Jun 12 08:11:45 2014 -0600
+
+    Update README.md
+
+commit 6b7feddac99a2fb96193faaf900b59db1eda8f76
+Author: Jeff Taggart <jetaggart@users.noreply.github.com>
+Date:   Wed Jun 11 14:30:08 2014 -0600
+
+    Update README.md
+
+commit fdf01162279fc23c92ad1dbb341d90ef76d705b3
+Author: Jeff Taggart <jetaggart@users.noreply.github.com>
+Date:   Sun Jun 8 18:47:52 2014 -0600
+
+    Update README.md
+
+commit a3534faad44b2fbee0929a507446b3ed35833721
+Author: Jeff Taggart <jetaggart@users.noreply.github.com>
+Date:   Sun Jun 8 18:25:10 2014 -0600
+
+    Create LICENSE
+
+commit 6bbd83fabada6c320be243dd9799500a225de646
+Author: Jeff Taggart <jetaggart@users.noreply.github.com>
+Date:   Sun Jun 8 18:24:43 2014 -0600
+
+    Initial commit
